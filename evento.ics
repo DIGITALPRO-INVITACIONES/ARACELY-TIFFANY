@@ -1,12 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Digital Pro//Aracely XV//ES
+PRODID:-//Digital Pro//Arcely Tiffany//ES
 BEGIN:VEVENT
-UID:aracely-tiffany-xv-20261127@digitalpro
-DTSTAMP:20261116T120000Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:XV años de Aracely Tiffany Poma Cruz
-DESCRIPTION:Horario y lugar definitivos por confirmar. WhatsApp: +59179968186
+UID:arcely-tiffany-xv-20261127@digitalpro
+DTSTAMP:20261120T120000Z
+DTSTART:20261127T220000Z
+DTEND:20261128T043000Z
+SUMMARY:XV años de Arcely Tiffany - Recepción
+LOCATION:Salón de fiestas Nova - Entre calle T'ika llajta y Jamank'aya
+DESCRIPTION:Entrada 17:00. Recepción 18:00. Vestimenta elegante. Azules y dorado reservados para la quinceañera. Ubicación: https://maps.app.goo.gl/WqgPooe3nTjEL3D48
 END:VEVENT
 END:VCALENDAR
