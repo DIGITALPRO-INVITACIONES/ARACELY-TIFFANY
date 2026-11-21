@@ -7,3 +7,5 @@
 .family{padding-bottom:190px}.section-icon{stroke:#76531b;stroke-width:1.7}@media(max-width:600px){.family{padding-bottom:175px}.family-names{font-size:24px}}
 /* Paleta de las referencias, integrada en el papel. */
 body{background:radial-gradient(ellipse at top,#263747,#0b1520 75%)}.cover-paper,.hero,.section,footer{border-radius:2px}.button,.share{border-color:#a4a297;background:linear-gradient(120deg,#142b40,#344b5e);color:#f4eee1}.controls button,.bottom-nav{border-color:#a4a29770}.cover-kicker,.cover-hint{color:#ded9cc}.seal{border-color:#b7ac8c;color:#efe4cb}
+
+.photo-qr{display:block;width:min(240px,100%);height:auto;margin:28px auto;border-radius:4px}.album-instructions{font-size:21px;line-height:1.5}.album .note{font-size:18px}.album strong{font-weight:600}
